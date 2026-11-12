@@ -1,0 +1,9 @@
+# C 빌드/디버그 결과물
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.out
+*.dSYM/
+build/
